@@ -40,7 +40,7 @@ header p{
     }
   
     .dropbtn:hover, .dropbtn:focus {
-      background-color:darkblue;
+      background-color:#01889F;
     }
   
     .dropdown {
@@ -50,7 +50,7 @@ header p{
   
     .dropdown-content {
       display: none;
-      border: 2px solid blue;
+      border: 2px solid lightseagreen;
       position: absolute;
       left: -100px;
       background-color: #222;
