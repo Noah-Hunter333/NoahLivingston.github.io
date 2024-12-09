@@ -154,7 +154,8 @@ header h1 {
   .hero-image {
     padding: 75px 0px;
     position: relative;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://placehold.co/640x420/png"); 
+    background-color: darkgrey;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("hero\ image.webp"); 
     height: 50%;
     background-position: center;
     background-repeat: no-repeat;
@@ -261,7 +262,7 @@ header h1 {
  *    ██   ██ ███████ ███████  ██████  ██      ██ ███████                                                  
  */
  .Resume {
-    background-color: darkblue;
+    background-color: darkslategrey;
     text-align: center;
   }
   .Resume a:hover {
